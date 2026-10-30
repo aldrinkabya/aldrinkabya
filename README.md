@@ -7,6 +7,6 @@ Research Assistant at the [Center for Computational & Data Sciences (CCDS)](http
 - [PRiSM: Partial Ranking via Inter-layer Semantic Measurement for Efficient Fine-tuning of Language Models](https://doi.org/10.63317/3eyz8rr5qun6), *LREC 2026* · [code](https://github.com/aldrinkabya/PRiSM)
 
 **Projects**
-- [WebGIS platform for multi-temporal land-cover monitoring in Bangladesh](https://github.com/aldrinkabya/webgis-research-release)
+- [WebGIS platform for multi-temporal land-cover monitoring in Bangladesh](https://github.com/aldrinkabya/lulc-webgis)
 
 [Website](https://aldrinkabya.github.io) · [Google Scholar](https://scholar.google.com/citations?user=LeY2KOgAAAAJ) · aldrin.kabya04@gmail.com
