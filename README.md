@@ -6,7 +6,7 @@
 
 ### About me
 - 🔬 Research Assistant at the [Center for Computational & Data Sciences (CCDS)](https://ccds.ai), Independent University, Bangladesh
-- 🧠 I work on making language models fairer and more efficient: bias steering, parameter-efficient fine-tuning and quantization
+- 🧠 I work on making language models fairer and more efficient: bias steering, interpretability, and parameter-efficient fine-tuning
 
 ### 📄 Papers
 - [Training-Free Layer Selection for Partial Fine-Tuning of Language Models](https://doi.org/10.1016/j.ins.2026.123204), *Information Sciences*, 2026 · [code](https://github.com/aldrinkabya/k-layer-selective-finetuning)
